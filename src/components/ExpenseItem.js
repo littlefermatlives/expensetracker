@@ -1,5 +1,6 @@
 import { date } from 'check-types';
 import ExpenseDate from './ExpenseDate.js';
+import card from './card.js';
 import './ExpenseItem.css';
 function ExpenseItem(props) {
 
